@@ -1,4 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'de-de'
 title = 'Predigtplan'
+
 theme = "dark-theme-editor"
