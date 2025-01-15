@@ -1,9 +1,26 @@
-+++
-date = '{{ .Date }}'
-draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-+++
+---
+date: 2025-01-15
+title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+---
 
 ## Preditplan
 
-Some text
+| Datum    | Predigt    | Leitung |
+| -------- | ---------- | ------- |
+| 05.01.25 | EK         | RS      |
+| 12.01.25 | RS         | TO      |
+| 19.01.25 | WW         | EK      |
+| 26.01.25 | TO         | RS      |
+| 02.02.25 | Box: Römer |         |
+| 09.02.25 | Box: Römer |         |
+| 16.02.25 | Box: Römer |         |
+| 23.02.25 | TO         |         |
+| 02.03.25 |            |         |
+| 09.03.25 |            |         |
+| 16.03.25 |            |         |
+| 23.03.25 |            |         |
+| 30.03.25 |            |         |
+| 06.04.25 |            |         |
+| 13.04.25 |            |         |
+| 20.04.25 |            |         |
+| 27.04.25 |            |         |
