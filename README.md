@@ -1,3 +1,3 @@
 # README
 
-https://toestre.github.io/predigtplan/
+Link zur Gihub.io page: https://toestre.github.io/predigtplan/
