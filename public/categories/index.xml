@@ -7,14 +7,6 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>de-de</language>
     <copyright>toestre</copyright>
-    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Predigt</title>
-      <link>//localhost:1313/categories/predigt/</link>
-      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/predigt/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
