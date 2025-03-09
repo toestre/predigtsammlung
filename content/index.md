@@ -32,5 +32,5 @@ title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 
 ## Linksammlungen zu Predigten
 
-- [Römerbrief]({{% ref path="./posts/roemerbrief.md" %}})
-- [Einheit]({{% ref path="./posts/einheit_e21.md" %}})
+- [Römerbrief]({{% ref path="posts/roemerbrief.md" %}})
+- [Einheit]({{% ref path="posts/einheit_e21.md" %}})
