@@ -1,3 +1,14 @@
-#baseURL: 'https://example.org/'
+# baseURL: 'https://example.org/'
 languageCode: 'de-de'
-title = 'Predigtplan und -sammlung'
+title: "Predigtplanung"
+theme: "dario"
+
+
+params:
+  author: "toestre" # the author of the site
+  description: "Predigtplaner und Linksammlung zu Predigten" # a description of your site that will be used in the meta tags
+
+  params.homeInfoParams:
+    Title: "Predigtplaner" # the text to display on the "/" homepage
+    Content: "This is a minimal web log inspired by Dario Amodei's personal [website](https://darioamodei.com/). Add some more text here that will be displayed on your homepage (you can use markdown)."
+    Description: "A minimal web log." # The description of the home page that will be used in the open graph meta tags

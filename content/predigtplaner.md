@@ -1,10 +1,8 @@
 ---
-# title: "Predigtplan"
 date: 2025-01-15
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: "Predigtplaner"
+weight: 1
 ---
-
-### Preditplan
 
 Übersichtsplan zu Predigt und GoDi-Leitung
 
@@ -32,6 +30,5 @@ title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 
 ## Linksammlungen zu Predigten
 
-[Römerbrief]( {{< ref "posts/roemerbrief.md" >}} )
 
 
