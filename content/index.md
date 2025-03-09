@@ -29,7 +29,3 @@ title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 | 27.04.25 | Box: [Ich habe Frieden mit Gott](https://fkgw.de/sermons/ich-habe-frieden-mit-gott/) (Römer 5,1-11)         |         |
 | 04.05.25 | Box: [Für die Sünde tot, für Gott lebendig](https://fkgw.de/sermons/fuer-die-suende-tot-fuer-gott-lebendig/) (Römer 6,1-14) | |
 | 12.05.25 | Box: [Ich bin ein Sklave Gottes](https://fkgw.de/sermons/ich-bin-ein-sklave-gottes/)  (Römer 15,15-23)         |         |
-
-### Linksammlungen
-
-Unter den Links unten finden sich Verlinkungen zu Predigtreihen.

@@ -1,4 +1,4 @@
-baseURL: 'https://toestre.github.io/predigtplan/'
+# baseURL: 'https://toestre.github.io/predigtplan/'
 languageCode: 'de-de'
 title: 'Predigtplan und -sammlung'
 
@@ -21,7 +21,7 @@ params:
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: false
-  ShowReadingTime: true
+  ShowReadingTime: false
   # disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true

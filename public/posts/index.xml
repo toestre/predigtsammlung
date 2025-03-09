@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Predigtplan und -sammlung</title>
+    <title>Posts on Predigtplan und -sammlung</title>
     <link>//localhost:1313/posts/</link>
-    <description>Recent content on Predigtplan und -sammlung</description>
+    <description>Recent content in Posts on Predigtplan und -sammlung</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>de-de</language>
     <copyright>toestre</copyright>
@@ -22,6 +22,13 @@
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/einheit_e21/</guid>
       <description>Linksammlung zu den Predigten zum Thema Einheit auf der E21 Konferenz Süd 2025</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/__index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/__index/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
