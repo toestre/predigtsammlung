@@ -1,6 +1,7 @@
 ---
 author: "FKGW"
 title: "Römerbrief Predigten"
+slug: "roemerbrief"
 date: "2025-03-09"
 description: "Linksammlung zu den Römerbrief-Predigten der FKGW."
 tags: ["römer", "römerbrief", "predigt", "fkgw"]
