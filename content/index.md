@@ -30,7 +30,7 @@ title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 | 04.05.25 | Box: [Für die Sünde tot, für Gott lebendig](https://fkgw.de/sermons/fuer-die-suende-tot-fuer-gott-lebendig/) (Römer 6,1-14) | |
 | 12.05.25 | Box: [Ich bin ein Sklave Gottes](https://fkgw.de/sermons/ich-bin-ein-sklave-gottes/)  (Römer 15,15-23)         |         |
 
-## Predigtlinksammlungen
+## Linksammlungen zu Predigten
 
-- {{< ref "./posts/roemerbried.md" >}}
-- {{< ref "./posts/einheit_e21.md" >}}
+- [Römerbrief]({{% ref path="./posts/roemerbrief.md" %}})
+- [Einheit]({{% ref path="./posts/einheit_e21.md" %}})
