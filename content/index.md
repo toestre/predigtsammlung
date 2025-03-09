@@ -44,7 +44,7 @@ title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 14) [Keine Verdammnis](https://fkgw.de/sermons/keine-verdammnis/) (Römer 8,1-4)
 15) [Ich bin ein Kind Gottes](https://fkgw.de/sermons/ich-bin-ein-kind-gottes/) (Römer 8,1-17)
 16) [Das Leid und die Herrlichkeit](https://fkgw.de/sermons/das-leid-und-die-herrlichkeit/) (Römer 8,18-30)
-17) [Das Hohelied der Heilsgewissheit. Römer 8,31-39](https://fkgw.de/sermons/das-hohelied-der-heilsgewissheit/)
+17) [Das Hohelied der Heilsgewissheit](https://fkgw.de/sermons/das-hohelied-der-heilsgewissheit/) (Römer 8,31-39)
 18) [Gnade ist geheimnisvoll: Gottes Weg mit Israel zum wahren Volk Gottes](https://fkgw.de/sermons/gnade-ist-geheimnisvoll-gottes-weg-mit-israel-zum-wahren-volk-gottes/) (Römer 9,1-29 & 11,1-31)
 19) [Gnade ist geheimnisvoll: Von Gott erwählt und warum es eine gute Botschaft ist](https://fkgw.de/sermons/gnade-ist-geheimnisvoll-von-gott-erwaehlt-und-warum-es-eine-gute-botschaft-ist/) (Römer 9-11)
 20) [Notwendigkeit der Verkündigung des Evangeliums](https://fkgw.de/sermons/notwendigkeit-der-verkuendigung-des-evangeliums/) (Römer 10,14-21)
