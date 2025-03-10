@@ -19,8 +19,8 @@ draft: false
 
 Predigten über den Römerbrief, die in der [Freien Kirchengemeinde Warendorf](https://fkgw.de) gehalten wurden.
 
-1) [Der Geist kann dich mit Hoffnung füllen. Römer 15,13](https://fkgw.de/sermons/der-geist-kann-dich-mit-hoffnung-fuellen/)
-2) [Gnade rettet mich](https://fkgw.de/sermons/gnade-rettet-mich-das-evangelium-muss-verkuendigt-werden/) (Römer 1,8-15)
+1) [Der Geist kann dich mit Hoffnung füllen](https://fkgw.de/sermons/der-geist-kann-dich-mit-hoffnung-fuellen/) (Römer 15,13)
+2) [Gnade rettet mich: Das Evangelium muss verkündigt werden](https://fkgw.de/sermons/gnade-rettet-mich-das-evangelium-muss-verkuendigt-werden/) (Römer 1,8-15)
 3) [Das Evangelium rettet uns](https://fkgw.de/sermons/das-evangelium-rettet-uns/) (Römer 1,16-17)
 4) [Die Geduld Gottes: Ich muss umkehren](https://fkgw.de/sermons/die-geduld-gottes-ich-muss-umkehren/) (Römer 2,1-11)
 5) [Ich brauche ein neues Herz](https://fkgw.de/sermons/ich-brauche-ein-neues-herz/) (Römer 2,12-29)
