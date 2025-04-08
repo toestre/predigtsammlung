@@ -69,3 +69,10 @@ markup:
     guessSyntax: true
     lineNos: true
     noClasses: false
+
+module:
+  mounts:
+    - source: "content/posts"
+      target: "content/posts"
+    - source: "content"
+      target: "content"

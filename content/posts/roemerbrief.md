@@ -1,16 +1,17 @@
----
-author: "FKGW"
-title: "Römerbrief Predigten"
-slug: "roemerbrief"
-date: "2025-03-09"
-description: "Linksammlung zu den Römerbrief-Predigten der FKGW."
-tags: ["römer", "römerbrief", "predigt", "fkgw"]
-categories: ["predigt"]
-series: ["FKGW"]
-weight: 10
-ShowToc: false
-TocOpen: false
----
++++
+author = "FKGW"
+title = "Römerbrief Predigten"
+slug = "roemerbrief"
+date = "2025-03-09"
+description = "Linksammlung zu den Römerbrief-Predigten der FKGW."
+tags = ["römer", "römerbrief", "predigt", "fkgw"]
+categories = ["predigt"]
+series = ["FKGW"]
+weight = 10
+ShowToc = false
+TocOpen = false
++++
+
 
 Predigten über den Römerbrief, die in der [Freien Kirchengemeinde Warendorf](https://fkgw.de) gehalten wurden.
 
