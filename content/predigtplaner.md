@@ -1,7 +1,7 @@
 ---
-# title: "Predigtplan"
+title: "Predigtplan"
 date: 2025-04-08
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+# title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 ---
 
 ### Preditplan
@@ -25,7 +25,7 @@ title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 | 30.03.25 | WB         | RS        |
 | 06.04.25 | Taufe RS/TO          | EK     |
 | 13.04.25 | RK         | TO    |
-| 20.04.25 | TO           | EK        |
+| 20.04.25 | Ostern TO           | EK        |
 | 27.04.25 | Box: [Ich kann mich selbst nicht retten](https://fkgw.de/sermons/ich-kann-mich-nicht-selbst-retten/) (Römer 3,1-20)          |         |
 | 04.05.25 | TO          |         |
 | 11.05.25 | Box: [Gott, rette mich trotz meiner Schuld](https://fkgw.de/sermons/gott-rette-mich-trotz-meiner-schuld/) (Römer 3,21-26)           |         |
