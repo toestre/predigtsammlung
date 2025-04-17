@@ -47,3 +47,4 @@ Predigten über den Römerbrief, die in der [Freien Kirchengemeinde Warendorf](h
 26) [Liebe toleriert die Überzeugungen des Anderen](https://fkgw.de/sermons/liebe-toleriert-die-ueberzeugungen-des-anderen/) (Römer 14,1-12)
 27) [Liebe schützt das Gewissen des Anderen](https://fkgw.de/sermons/liebe-schuetzt-das-gewissen-des-anderen/) (Römer 14,13-23)
 28) [Nehmt einander an! Zur Ehre Gottes](https://fkgw.de/sermons/nehmt-einander-an-zur-ehre-gottes/) (Röm 15,1-13)
+29) [Das Evangelium hat viele Mitarbeiter](https://fkgw.de/sermons/das-evangelium-hat-viele-mitarbeiter/) (Röm 16,1-16)
