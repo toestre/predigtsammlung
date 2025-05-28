@@ -29,10 +29,11 @@ date: 2025-04-08
 | 27.04.25 | Box: [Ich kann mich selbst nicht retten](https://fkgw.de/sermons/ich-kann-mich-nicht-selbst-retten/) (Römer 3,1-20)          |         |
 | 04.05.25 | TO          |         |
 | 11.05.25 | Box: [Gott, rette mich trotz meiner Schuld](https://fkgw.de/sermons/gott-rette-mich-trotz-meiner-schuld/) (Römer 3,21-26)           |         |
-| 04.05.25 | Box: [Worauf wir stolz sein können. ](https://fkgw.de/sermons/worauf-wir-stolz-sein-koennen/) (Römer 3,27-4,8)        |         |
-| 18.05.25 | Box: [Ich habe Frieden mit Gott](https://fkgw.de/sermons/ich-habe-frieden-mit-gott/) (Römer 5,1-11)  | |
-| 25.05.25 | Box: [Für die Sünde tot, für Gott lebendig](https://fkgw.de/sermons/fuer-die-suende-tot-fuer-gott-lebendig/) (Römer 6,1-14)         |         |
-| 01.06.25 | Box: [Ich bin ein Sklave Gottes](https://fkgw.de/sermons/ich-bin-ein-sklave-gottes/) (Römer 15,15-23)  |         |
+| 18.05.25 | Box: [Worauf wir stolz sein können. ](https://fkgw.de/sermons/worauf-wir-stolz-sein-koennen/) (Römer 3,27-4,8)        |    TO     |
+| 25.05.25 | RS | EK |
+| 01.06.25 | Box: [Ich habe Frieden mit Gott](https://fkgw.de/sermons/ich-habe-frieden-mit-gott/) (Römer 5,1-11)  | TO |
 | 08.06.25 | RK  |         |
-| 15.06.25 | [Frei um für Gott zu leben](https://fkgw.de/sermons/frei-um-fuer-gott-zu-leben/) (Römer 7,1-6)  |         |
+| 15.06.25 | Box: [Für die Sünde tot, für Gott lebendig](https://fkgw.de/sermons/fuer-die-suende-tot-fuer-gott-lebendig/) (Römer 6,1-14)         |         |
+| 22.06.25 | Box: [Ich bin ein Sklave Gottes](https://fkgw.de/sermons/ich-bin-ein-sklave-gottes/) (Römer 15,15-23)  |         |
+| 29.06.25 | [Frei um für Gott zu leben](https://fkgw.de/sermons/frei-um-fuer-gott-zu-leben/) (Römer 7,1-6)  |         |
 
