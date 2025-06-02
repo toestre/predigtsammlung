@@ -9,7 +9,7 @@ description: "Linksammlung zu Predigten über Endzeitmodelle von Waldemar Justus
 
 date: 2025-04-18T00:00:00-00:00 # date of creation
 
-weight: 30
+weight: 100
 draft: false
 
 # ogTitle: Cool New Example Post # the title of the post that will be used in the open graph meta tags

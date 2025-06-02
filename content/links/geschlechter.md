@@ -19,5 +19,5 @@ draft: false
 
 Eine Linksammlung von Predigten zu allen Themen rund um die Geschlechter(-rollen) in der Bibel.
 
-
 - [Paulus gegen das Kopftuch](https://cgem.de/sermon/paulus-gegen-das-kopftuch/) (Waldemar Justus, 1. Korinther 11,1-16)
+- [Die Rolle des Mannes](https://cgem.de/sermon/die-rolle-des-mannes/) (Waldemar Justus)
