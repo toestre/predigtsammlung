@@ -1,7 +1,7 @@
 ---
 title: "Sexualität"
 slug: "sexualitaet"
-author: ["Waldemar Justus", "Mike Leister] # can be an array or just a string
+author: ["Waldemar Justus", "Mike Leister"] # can be an array or just a string
 description: "Linksammlung zu Predigten über Sexualität."
 
 # The summary is for search engines
