@@ -28,3 +28,9 @@ Eine Predigtreihe über Endzeitmodelle von Waldemar Justus: [Übersichtsseite](h
    - [PDF zum Vortrag](https://cgem.de/wp-content/uploads/2021/07/2021-07-07_Praemillennialismus_WJ.pdf)
 4) [Endzeitmodell: Dispensationalismus](https://cgem.de/sermon/endzeitmodell-dispensationalismus/)
    - [PDF zum Vortrag](https://cgem.de/wp-content/uploads/2021/07/2021-07-21_Dispensationalismus.pdf)
+
+---
+
+Eine sehr umfassende Playlist von Dr. Florian Sondheimer zum Thema Eschatologie, in der er auf sehr viele Facetten dieses Themenkomplexes eingeht (Hermeneutik, Prophetieverständnis, etc.). Er legt gut dar, von welchen Annahmen die einzelnen Modelle ausgehen.
+
+Link zur Playlist: [13 Zukunft (Eschatologie) | Dr. Florian Sondheimer](https://youtube.com/playlist?list=PLEyVMUOY8lLf-C3S3WWmzJvtWSiHxxSnw)

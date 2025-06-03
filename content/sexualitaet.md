@@ -23,3 +23,4 @@ Eine Linksammlung von Predigten zu allen Themen rund um die Geschlechter(-rollen
 - [Der Weg zu sexueller Reinheit (2)](https://www.bibelgemeinde.de/app/download/11102086593/2015+05+14+-+Mike+Leister+-+Der+Weg+zu+sexueller+Reinheit%2C+Teil+2.mp3?t=1715593737) (Michael Leister)
   - [Manuskript zu »Der Weg zu sexueller Reinheit«](https://www.bibelgemeinde.de/app/download/11102086693/MKL+-+Sexuelle+Reinheit+-+v06.pdf?t=1715593737) (Michael Leister)
 - [Krieg gegen sexuelle Sünde](https://cgem.de/sermon/krieg-gegen-sexuelle-suende/) (Waldemar Justus, Matthäus 5,27-32)
+- [Predigten und Unterlagen zu Pornographie bei frogwords.de](https://www.frogwords.de/predigten/themen-suche/ethik/pornografie) (Jürgen Fischer, frogwords)
