@@ -47,6 +47,6 @@ Predigten über den Römerbrief, die in der [Freien Kirchengemeinde Warendorf](h
 26) [Liebe toleriert die Überzeugungen des Anderen](https://fkgw.de/sermons/liebe-toleriert-die-ueberzeugungen-des-anderen/) (Römer 14,1-12)
 27) [Liebe schützt das Gewissen des Anderen](https://fkgw.de/sermons/liebe-schuetzt-das-gewissen-des-anderen/) (Römer 14,13-23)
 28) [Nehmt einander an! Zur Ehre Gottes](https://fkgw.de/sermons/nehmt-einander-an-zur-ehre-gottes/) (Röm 15,1-13)
+30) [Das Evangelium: Der Auftrag, dem sich alles unterordnet](https://www.youtube.com/watch?v=KSobG87gVzI) (Röm 15,14-33) (*Predigt ab Minute 42:50*) (Im Archiv fehlt das Audio: https://fkgw.de/sermons/das-evangelium-der-auftrag-dem-sich-alles-unterordnet/)
 29) [Das Evangelium hat viele Mitarbeiter](https://fkgw.de/sermons/das-evangelium-hat-viele-mitarbeiter/) (Röm 16,1-16)
-30) <Link fehlt> [Das Evangelium: Der Auftrag, dem sich alles unterordnet](https://fkgw.de/sermons/das-evangelium-der-auftrag-dem-sich-alles-unterordnet/) (?)
 31) [Das Evangelium muss beschützt werden](https://fkgw.de/sermons/das-evangelium-muss-beschuetzt-werden/) (Röm 16,17-27)
